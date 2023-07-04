@@ -1,2 +1,2 @@
 # tictactoe
-A simple website where you can play Tic Tac Toe. Have Fun :))
+A simple website for you to play Tic Tac Toe. Have Fun :))
